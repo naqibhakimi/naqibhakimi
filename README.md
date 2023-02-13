@@ -27,8 +27,8 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://shields.io/badge/MacOS--9cf?logo=Apple&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/intel-core%20i9%202019-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MACBOOKPRO-2019-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i9-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
